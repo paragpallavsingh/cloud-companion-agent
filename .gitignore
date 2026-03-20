@@ -1,0 +1,16 @@
+# Secrets & Config
+.env
+auth.json
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+venv/
+.venv/
+.pytest_cache/
+
+# OS
+.DS_Store
+Thumbs.db

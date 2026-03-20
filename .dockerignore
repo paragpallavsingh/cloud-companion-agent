@@ -1,0 +1,16 @@
+# Ignore Git
+.git
+.gitignore
+
+# Ignore local Python environment
+venv/
+.venv/
+__pycache__/
+
+# Ignore documentation/PPTs
+*.pdf
+*.pptx
+*.md
+
+# Ignore local secrets
+.env
